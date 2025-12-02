@@ -1,8 +1,8 @@
 - undergraduate bs in CM @ GT
 
 recent: 
-| Project | Type | Context | Link |
-|---------|------|---------|------|
+| Project | Type | Context |
+|---------|------|---------|
 | Quanty | Auto Trader | Personal |
 | [Continuum](https://github.com/aandrx/continuum) | Productivity Board Tool | Personal |
 | SpendWise | Budget Management | [CS2340](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202105&subj_code_in=CS&crse_numb_in=2340) |
