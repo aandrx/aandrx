@@ -3,8 +3,8 @@
 
 most recent works:
 - quanty | auto trader
-- continuum | productivity tool
-- SpendWise for CS2340 | budget management tool
+- [Continuum](https://github.com/aandrx/continuum) | productivity tool
+- SpendWise for [CS2340](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202105&subj_code_in=CS&crse_numb_in=2340) | budget management tool
 - [Loom](https://github.com/aandrx/Loom) for [HackNYU25](https://devpost.com/software/loom-aktc6h)
 - [harmonyAPI](https://github.com/aandrx/harmonyAPI) for [HackGT12](https://devpost.com/software/hcp-engagement-api)
 
