@@ -3,7 +3,7 @@
 recent: 
 | Project | Type | Context |
 |---------|------|---------|
-| aandrx website/portfolio | Personal Website/Portfolio | [Portfolio](https://github.com/aandrx/aandrx.github.io) |
+| [Personal Website](https://github.com/aandrx/aandrx.github.io) | Personal Website/Portfolio | [Portfolio](https://aandrx.vercel.app/) |
 | Quanty | Auto Trader | Personal |
 | [Continuum](https://github.com/aandrx/continuum) | Productivity Board Tool | Personal |
 | [SpendWise](https://github.com/aandrx/spendwise-pages) | Budget Management | [CS2340](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202105&subj_code_in=CS&crse_numb_in=2340) |
