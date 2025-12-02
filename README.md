@@ -8,9 +8,9 @@ most recent works:
 - [Loom](https://github.com/aandrx/Loom) for [HackNYU25](https://devpost.com/software/loom-aktc6h)
 - [harmonyAPI](https://github.com/aandrx/harmonyAPI) for [HackGT12](https://devpost.com/software/hcp-engagement-api)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 
 <!---
 aandrx/aandrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
