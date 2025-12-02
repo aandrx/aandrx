@@ -6,7 +6,7 @@ recent:
 | aandrx website/portfolio | Personal Website/Portfolio | [Portfolio](https://github.com/aandrx/aandrx.github.io) |
 | Quanty | Auto Trader | Personal |
 | [Continuum](https://github.com/aandrx/continuum) | Productivity Board Tool | Personal |
-| SpendWise | Budget Management | [CS2340](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202105&subj_code_in=CS&crse_numb_in=2340) |
+| [SpendWise](https://github.com/aandrx/spendwise-pages) | Budget Management | [CS2340](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202105&subj_code_in=CS&crse_numb_in=2340) |
 | [Loom](https://github.com/aandrx/Loom) | Blockchain Security Platform | [HackNYU25](https://devpost.com/software/loom-aktc6h) |
 | [harmonyAPI](https://github.com/aandrx/harmonyAPI) | Healthcare Provider API Platform | [HackGT12](https://devpost.com/software/hcp-engagement-api) |
 
